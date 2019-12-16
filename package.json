@@ -1,14 +1,14 @@
 {
-  "name": "helloworld",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "",
-  "license": "ISC",
+    "name": "ananya",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "",
+   "license": "ISC",
     "dependencies": {
         "aws-sdk": "^2.522.0",
         "azure-storage": "^2.10.3",
@@ -25,7 +25,7 @@
         "ejs": "^2.7.1",
         "email-existence": "^0.1.6",
         "excel-to-json": "^1.0.0",
-        "excel2json": "^1.0.2",
+        "excel2json": "^0.3.1",
         "excel4node": "^1.7.2",
         "exceljs": "^1.15.0",
         "express": "^4.17.1",
@@ -41,7 +41,6 @@
         "multer-s3": "^2.9.0",
         "newrelic": "^5.11.0",
         "nodemailer": "^4.7.0",
-        "node-gyp": "^5.0.7",
         "office-converter": "^1.0.2",
         "office2html": "0.0.2",
         "pdfkit": "^0.9.1",
@@ -61,4 +60,5 @@
         "yargs": "^13.3.0"
     }
 }
+
 
