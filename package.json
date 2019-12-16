@@ -41,6 +41,7 @@
         "multer-s3": "^2.9.0",
         "newrelic": "^5.11.0",
         "nodemailer": "^4.7.0",
+        "node-gyp": "^5.0.7",
         "office-converter": "^1.0.2",
         "office2html": "0.0.2",
         "pdfkit": "^0.9.1",
